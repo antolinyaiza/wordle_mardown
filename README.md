@@ -39,3 +39,29 @@ Los enlaces se ponen de la siguiente manera
 
 Vamos a añadir una imagen de un panda saludando:  
 ![Panda saludando](https://adoptaconwwf.es/img/panda.jpg)
+
+Código
+```python
+def saludar(nombre):
+    print(f"Hola, {nombre}!")
+
+saludar("Mundo")
+```
+
+```javascript
+function suma(a, b) {
+  return a + b;
+}
+
+console.log(suma(5, 7));
+```
+
+```html
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>Título principal</h1>
+    <p>Este es un párrafo.</p>
+  </body>
+</html>
+```
