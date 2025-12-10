@@ -26,3 +26,9 @@ Ejercicio:
 1. Abrir el proyecto de github del Wordle.
 2. Crear, sino existe, un archivo Readme.dm
 3. Añadir títutos, una breve descripción, nombre del creador formateando el texto y una lista que incluya caracteristicas de la aplicación.
+
+Tabla:
+| Nombre | Apellidos | Equipo | Deporte | Estadio | Liga |
+|-------|-------|-------|-------|-------|-------|
+| Yaiza | Antolin | Athletic Club Bilbao | Futbol | San Mamés | La liga |
+| Jon Ander | Asua | Bilbao Basket | Baloncesto | Bilbao Arena | Liga acb |
