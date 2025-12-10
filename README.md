@@ -79,3 +79,8 @@ Lista de tareas (TO-DO List)
 - [x] Recordar que Jon Ander hoy no da clase.
 - [x] Introducir el Readme.md.
 - [ ] Terminar el Readme.md y dejar tiempo para trabajar.
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
