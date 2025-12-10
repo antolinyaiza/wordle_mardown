@@ -30,5 +30,5 @@ Ejercicio:
 Tabla:
 | Nombre | Apellidos | Equipo | Deporte | Estadio | Liga |
 |-------|-------|-------|-------|-------|-------|
-| Yaiza | Antolin | Athletic Club Bilbao | Futbol | San Mamés | La liga |
-| Jon Ander | Asua | Bilbao Basket | Baloncesto | Bilbao Arena | Liga acb |
+| Yaiza | Antolin | Athletic Club Bilbao | Futbol | San Mamés | LaLiga |
+| Jon Ander | Asua | Bilbao Basket | Baloncesto | Bilbao Arena | Liga ACB |
