@@ -21,3 +21,8 @@ Otros requisitos:
 * Tener bateria en el pc
 * Estar vivos
 * Ganas de trabajar (opcional)
+
+Ejercicio:
+1. Abrir el proyecto de github del Wordle.
+2. Crear, sino existe, un archivo Readme.dm
+3. Añadir títutos, una breve descripción, nombre del creador formateando el texto y una lista que incluya caracteristicas de la aplicación.
